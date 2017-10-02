@@ -1,37 +1,23 @@
-# navController
+# NavController
+[@furthurr](https://twitter.com/furthurr?) 
 
-  NavController.js
-  @furthurr
+Created by Pedro Gomez Vasquez on 2014-01-16.
+Copyright 2014 furthurr. All rights reserved.
 
-//  Created by Pedro Gomez Vasquez on 2014-01-16.
-//  Copyright 2014 furthurr. All rights reserved.
+[![N|Solid](https://www.dallasisd.org/cms/lib/TX01001475/Centricity/Domain/12177/Blogger-icon.png)](http://ti-sl.blogspot.mx/) [![N|Solid](https://www.erccomics.com/images/youtube-icon.png)](https://www.youtube.com/user/myfurthur/videos)  [![N|Solid](https://www.gstatic.com/images/branding/product/1x/gmail_64dp.png)](mailto:pedrogvas@gmail.com)
 
-//##### libreria para manejar un arreglo de ventanas tanto en iOS como en Android con con allow
-//##### colocar el archivo en /lib/NavController.js
-//##### para poder utilizarla es necesario crear una variable global :
-//######################################################################
-//#####    var NavigationController = require('NavController');
-//#####    var navController = new NavigationController();
-//#####    Alloy.Globals.navcontroller = navController;
-//#####    var testwin = Alloy.createController('ventana').getView();
-//#####		 Alloy.Globals.navcontroller.open(testwin); //<-creando una ventana
-//######################################################################
-//##### la libreria maneja 3 metodos el primero es "open" este metodo es para mandan a crear o agregar una nueva ventana
-//######################################################################
-//#####    Alloy.Globals.navcontroller.open(testwin); <--- agregar una nueva ventala a la pila de ventanas
-//######################################################################
-//##### para cerrar una sola ventana:
-//######################################################################
-//#####    Alloy.Globals.navcontroller.close1();
-//######################################################################
-//##### para cerrar todas las ventanas y poder ir a home o la primera
-//##### 								ventana (ventana root):
-//######################################################################
-//##### Alloy.Globals.navcontroller.home();
-//##### Alloy.Globals.navcontroller.home1(); //cierra ventanas de manera inversa
-//######################################################################
-//######################################################################
-//##### para cerrar solo la penultima ventana
-//######################################################################
-//#####    Alloy.Globals.navcontroller.closePenultima();
-//######################################################################
+Librería para manejar un arreglo de ventanas tanto en iOS como en Android con con allow
+colocar el archivo en /lib/NavController.js
+# Instalar:
+```sh
+var NavigationController = require('NavController');
+var navController = new NavigationController();
+Alloy.Globals.navcontroller = navController;
+var testwin = Alloy.createController('ventana').getView();
+Alloy.Globals.navcontroller.open(testwin); //<-creando una ventana
+```
+
+Agregar una nueva ventala a la pila de ventanas:
+```sh
+Alloy.Globals.navcontroller.open(testwin);
+```
