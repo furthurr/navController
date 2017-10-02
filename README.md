@@ -1,11 +1,11 @@
 # navController
-//
-//  NavController.js
-//  @furthurr
-//
+
+  NavController.js
+  @furthurr
+
 //  Created by Pedro Gomez Vasquez on 2014-01-16.
 //  Copyright 2014 furthurr. All rights reserved.
-//
+
 //##### libreria para manejar un arreglo de ventanas tanto en iOS como en Android con con allow
 //##### colocar el archivo en /lib/NavController.js
 //##### para poder utilizarla es necesario crear una variable global :
