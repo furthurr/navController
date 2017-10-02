@@ -8,7 +8,10 @@ Copyright 2014 furthurr. All rights reserved.
 
 Librería para manejar un arreglo de ventanas tanto en iOS como en Android con con allow
 colocar el archivo en /lib/NavController.js
+
 # Instalar:
+Para utilizar recomiendo que elimines tanto tu index.xml y index.tss dejando solo el index.js
+con el siguiente codigo:
 ```sh
 var NavigationController = require('NavController');
 var navController = new NavigationController();
