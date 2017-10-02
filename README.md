@@ -21,3 +21,19 @@ Agregar una nueva ventala a la pila de ventanas:
 ```sh
 Alloy.Globals.navcontroller.open(testwin);
 ```
+
+Cerrar una sola ventana:
+```sh
+Alloy.Globals.navcontroller.close1();
+```
+
+Cerrar todas las ventanas y poder ir a home o la primera ventana (ventana root):
+```sh
+Alloy.Globals.navcontroller.home();
+Alloy.Globals.navcontroller.home1(); //cierra ventanas de manera inversa
+```
+
+Cerrar solo la penultima ventana:
+```sh
+Alloy.Globals.navcontroller.closePenultima();
+```
