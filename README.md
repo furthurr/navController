@@ -1,8 +1,7 @@
 # NavController
 [@furthurr](https://twitter.com/furthurr?) 
 
-Created by Pedro Gomez Vasquez on 2014-01-16.
-Copyright 2014 furthurr. All rights reserved.
+Created by Pedro Gomez Vasquez on 2014-01-16. Creative Commons furthurr.
 
 [![N|Solid](https://www.dallasisd.org/cms/lib/TX01001475/Centricity/Domain/12177/Blogger-icon.png)](http://ti-sl.blogspot.mx/) [![N|Solid](https://www.erccomics.com/images/youtube-icon.png)](https://www.youtube.com/user/myfurthur/videos)  [![N|Solid](https://www.gstatic.com/images/branding/product/1x/gmail_64dp.png)](mailto:pedrogvas@gmail.com)
 
