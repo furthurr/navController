@@ -1,7 +1,7 @@
 # NavController
 [@furthurr](https://twitter.com/furthurr?) 
 
-Created by Pedro Gomez Vasquez on 2014-01-16. Creative Commons furthurr.
+Proyecto creado por Pedro Gomez Vasquez el 2014-01-16.
 
 [![N|Solid](https://www.dallasisd.org/cms/lib/TX01001475/Centricity/Domain/12177/Blogger-icon.png)](http://ti-sl.blogspot.mx/) [![N|Solid](https://www.erccomics.com/images/youtube-icon.png)](https://www.youtube.com/user/myfurthur/videos)  [![N|Solid](https://www.gstatic.com/images/branding/product/1x/gmail_64dp.png)](mailto:pedrogvas@gmail.com)
 
@@ -39,3 +39,14 @@ Cerrar solo la penultima ventana:
 ```sh
 Alloy.Globals.navcontroller.closePenultima();
 ```
+
+## Autor
+
+<a href="https://furthurr.github.io/" target="_blank" rel="noopener noreferrer">Pedro G. V. @furthurr</a>
+
+- **GitHub:** https://github.com/furthurr
+- **Email:** pedrogvas@gmail.com
+
+## Licencia
+
+MIT
